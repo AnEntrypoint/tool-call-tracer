@@ -1,0 +1,15 @@
+{
+  "name": "@sequentialos/tool-call-tracer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Tracing for all tool calls with parameters, results, and performance metrics",
+  "main": "src/index.js",
+  "keywords": [
+    "tools",
+    "tracing",
+    "observability"
+  ],
+  "author": "Sequential",
+  "license": "MIT",
+  "owner": "Observability"
+}
